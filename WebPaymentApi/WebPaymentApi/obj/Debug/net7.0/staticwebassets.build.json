@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9gQ2z+Jd1h45MDcV0TTeAZ8Jv8MzzK/zHgqA2KtVKPE=",
+  "Source": "WebPaymentApi",
+  "BasePath": "_content/WebPaymentApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
